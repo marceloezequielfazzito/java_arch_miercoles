@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbb00187-5a5b-42da-9314-f9a4e404e04d" name="Default Changelist" comment="" />
+    <list default="true" id="cbb00187-5a5b-42da-9314-f9a4e404e04d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dT25N9LOH1iwdz56HLr500V97o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/copy/java_arch_miercoles" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -113,10 +119,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.mvn_clean_install" />
       <item itemvalue="Application.App" />
       <item itemvalue="JUnit.JsonConverterTest.aaaaaaaaaaaaaaaaaaaa" />
       <item itemvalue="JUnit.JsonConverterTest.mustCreateAJsonCar" />
+      <item itemvalue="Maven.mvn_clean_install" />
     </list>
     <recent_temporary>
       <list>
@@ -136,7 +142,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592434577401</updated>
-      <workItem from="1592434582044" duration="4767000" />
+      <workItem from="1592434582044" duration="6554000" />
+      <workItem from="1592441635629" duration="14000" />
     </task>
     <servers />
   </component>
@@ -152,22 +159,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2691" y="249" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592438804963" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1592439788588">
+    <state x="2666" y="309" width="424" height="498" key="FileChooserDialogImpl" timestamp="1592441646959">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592439788588" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1592439788588">
+    <state x="2666" y="309" width="424" height="498" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592441646959" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1592441521921">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592439788588" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1592439788588">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592441521921" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1592441521921">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592439788588" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1592439788588">
+    <state width="1874" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592441521921" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1592441521921">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592439788588" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592441521921" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1592441521921">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1592441521921" />
     <state x="2416" y="209" width="924" height="698" key="Maven.ArtifactSearchDialog" timestamp="1592438637837">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

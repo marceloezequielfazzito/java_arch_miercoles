@@ -35,5 +35,10 @@ public class JsonConverter {
         }
     }
 
-
+    @Override
+    public String toString() {
+        return "JsonConverter{" +
+                "objectMapper=" + objectMapper +
+                '}';
+    }
 }

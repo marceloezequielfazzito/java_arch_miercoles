@@ -49,4 +49,11 @@ public class JsonConverter {
     public int hashCode() {
         return Objects.hash(objectMapper);
     }
+
+    @Override
+    public String toString() {
+        return "JsonConverter{" +
+                "objectMapper=" + objectMapper +
+                '}';
+    }
 }

@@ -6,7 +6,7 @@
 
     <groupId>com.eduit.app</groupId>
     <artifactId>java-arch</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>java-arch</name>

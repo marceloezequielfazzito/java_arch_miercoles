@@ -14,25 +14,17 @@ public class Client {
         this.socket = socket;
     }
 
-    public void serve(){
+    public void serve() throws IOException {
         try {
-            System.out.println(" generating message");
-            try {
-                Thread.sleep(10000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            System.out.println(" message generated returning to client ");
-            OutputStream outputStream = socket.getOutputStream();
-            BufferedWriter bufferedWriter =
-                    new BufferedWriter(new OutputStreamWriter(outputStream));
-            bufferedWriter.write(" bienvenido cliente");
-            bufferedWriter.flush();
-            bufferedWriter.close();
-        } catch (IOException e) {
-           throw new RuntimeException(e);
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
 
+        OutputStream outputStream = socket.getOutputStream();
+        BufferedWriter bf = new BufferedWriter(new OutputStreamWriter(outputStream));
+        bf.write(" datos .......");
+        bf.close();
+        socket.close();
     }
-
 }

@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbb00187-5a5b-42da-9314-f9a4e404e04d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/SynchList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/future/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/App2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/Execution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/MyFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/MyFuture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/server/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/server/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/server/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/server/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduit/app/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduit/app/server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eduit/app/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/App2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/Execution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eduit/app/Execution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/MyFuture.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eduit/app/MyFuture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/server/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eduit/app/server/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/server/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eduit/app/server/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/eduit/app/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/eduit/app/server/Server.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +175,7 @@
       <updated>1592434577401</updated>
       <workItem from="1592434582044" duration="6554000" />
       <workItem from="1592441635629" duration="14000" />
-      <workItem from="1594245596921" duration="9266000" />
+      <workItem from="1594245596921" duration="9770000" />
     </task>
     <servers />
   </component>
@@ -210,22 +195,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2666" y="302" width="424" height="498" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594245611147" />
-    <state width="1874" height="251" key="GridCell.Tab.0.bottom" timestamp="1594255504376">
+    <state width="1874" height="374" key="GridCell.Tab.0.bottom" timestamp="1594255561570">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="251" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255504376" />
-    <state width="1874" height="251" key="GridCell.Tab.0.center" timestamp="1594255504376">
+    <state width="1874" height="374" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255561570" />
+    <state width="1874" height="374" key="GridCell.Tab.0.center" timestamp="1594255561570">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="251" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255504376" />
-    <state width="1874" height="251" key="GridCell.Tab.0.left" timestamp="1594255504376">
+    <state width="1874" height="374" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255561570" />
+    <state width="1874" height="374" key="GridCell.Tab.0.left" timestamp="1594255561570">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="251" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255504376" />
-    <state width="1874" height="251" key="GridCell.Tab.0.right" timestamp="1594255504376">
+    <state width="1874" height="374" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255561570" />
+    <state width="1874" height="374" key="GridCell.Tab.0.right" timestamp="1594255561570">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="251" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255504376" />
+    <state width="1874" height="374" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594255561570" />
     <state x="2416" y="209" width="924" height="698" key="Maven.ArtifactSearchDialog" timestamp="1592438637837">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

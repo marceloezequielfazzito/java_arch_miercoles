@@ -7,7 +7,19 @@ public class App {
 
     public static void main(String[] args) throws InterruptedException {
 
+       /*
+        Thread thread = new Thread();
+        thread.suspend();
 
+        thread.resume();
+
+         thread.setPriority(Thread.MAX_PRIORITY);
+
+         Thread.yield();
+
+         */
+
+         /*
         Long init = System.currentTimeMillis();
 
         List<String> data = new ArrayList<>();

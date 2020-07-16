@@ -1,4 +1,4 @@
-package com.eduit.app.server;
+package com.eduit.app.tcp.server;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
